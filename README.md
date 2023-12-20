@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hillalee
 - 👀 I’m new to coding, and interested in all things data & ux 
-- 🌱 I’m currently learning SQL 
+- 🌱 I’m currently learning Python and Assembly 
 - 💞️ I’m open to critisicm and tips on coding!
 - 📫 How to reach me - linkedin (check bio) or email @ hilalee.or@gmail.com
 
