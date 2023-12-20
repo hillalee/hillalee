@@ -2,7 +2,7 @@
 - 👀 I’m new to coding, and interested in all things data & ux 
 - 🌱 I’m currently learning SQL 
 - 💞️ I’m open to critisicm and tips on coding!
-- 📫 How to reach me - www.linkedin.com/in/hilalee/
+- 📫 How to reach me - linkedin (check bio) or email @ hilalee.or@gmail.com
 
 <!---
 hillalee/hillalee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
