@@ -2,7 +2,7 @@
 - 👀 I’m new to coding, and interested in all things data & ux 
 - 🌱 I’m currently learning networks
 - 💞️ I’m open to critisicm and tips on coding! I started learning independently sep 23'
-- 📫 How to reach me - linkedin (check bio) or email @ hilalee.or@gmail.com
+- 📫 How to reach me - linkedin or email (check bio) 
 
 <!---
 hillalee/hillalee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
