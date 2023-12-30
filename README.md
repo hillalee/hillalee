@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @hillalee
-- 👀 I’m new to coding, and interested in all things data & ux 
 - 🌱 Currently learning networks & fullstack
 - 💞️ I’m open to critisicm and tips on coding! I started learning independently sep 23'
 - 📫 How to reach me - by email (check bio) 
