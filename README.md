@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @hillalee
+- 👋 Hi, I’m hilalee
+- HUJI CS student
+  
+
 
 <!---
 hillalee/hillalee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
