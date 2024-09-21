@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @hillalee
-- 🌱 Currently working on a WhatsApp bot for daily nutrition logs
-- 💞️ I’m open to critisicm and tips on coding! I started learning independently sep 23'
-- 📫 How to reach me - by email (check bio) 
 
 <!---
 hillalee/hillalee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
