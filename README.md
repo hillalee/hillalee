@@ -1,5 +1,6 @@
 👋 Hi, I’m hilalee
-- HUJI CS student
+- currently working on NutriUp, a WhatsApp bot for daily nutrition logs
+  
   
 
 
